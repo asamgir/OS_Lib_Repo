@@ -7,7 +7,7 @@
   <version>1.0</version>
   <name>AdvanceQuery</name>
   <description>AQ</description>
-  <url>https://github.com/asamgir/OS_Lib_Repo/lib/edu/wustl/AdvanceQuery/1.0 </url>
+  <url>https://github.com/asamgir/OS_Lib_Repo/lib </url>
   <dependencies>
     <dependency>
       <groupId>edu.wustl</groupId>
