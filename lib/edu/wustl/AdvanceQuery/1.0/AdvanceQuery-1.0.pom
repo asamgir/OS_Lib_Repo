@@ -5,7 +5,7 @@
   <groupId>edu.wustl</groupId>
   <artifactId>AdvanceQuery</artifactId>
   <version>1.0</version>
-  <name>AQ</name>
+  <name>AdvanceQuery</name>
   <description>AQ</description>
   <url>https://github.com/asamgir/OS_Lib_Repo/tree/master/lib</url>
   <dependencies>
