@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>edu.wustl</groupId>
-  <artifactId>AdvanceQuery</artifactId>
+  
   <version>1.0</version>
   <name>AdvanceQuery</name>
   <description>AQ</description>
